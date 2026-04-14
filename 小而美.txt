@@ -12,3 +12,6 @@ https://raw.githubusercontent.com/shuaidaoya/FreeNodes/refs/heads/main/nodes/all
 
 # https://t.me/nodpai/855
 https://pai.yt/clash
+
+# https://github.com/wzdnzd/aggregator/issues/91
+https://raoku-pm.hf.space/api/v1/subscribe?token=3nl!1kdbk=56u6k-x0il&target=clash&list=false
