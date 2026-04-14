@@ -9,3 +9,6 @@ https://raw.githubusercontent.com/shaoyouvip/free/refs/heads/main/all.yaml
 
 # 帅帅
 https://raw.githubusercontent.com/shuaidaoya/FreeNodes/refs/heads/main/nodes/all.yaml
+
+# https://t.me/nodpai/855
+https://pai.yt/clash
