@@ -1,17 +1,4 @@
 proxies:
-    - alpn:
-        - h3
-      congestion-controller: bbr
-      name: tuic-yutian|3.3MB/s|75%|TK-US|YT-US|NF|GPT⁺-US|GM-US|CL-US|SP-US
-      password: 7e88ea28-df69-4cbd-a279-403ec57e2467
-      port: 63639
-      server: 209.135.168.63
-      skip-cert-verify: true
-      sni: www.bing.com
-      type: tuic
-      udp: true
-      udp-relay-mode: native
-      uuid: 7e88ea28-df69-4cbd-a279-403ec57e2467
     - alterId: 0
       cipher: auto
       name: 英国616频道：@jichangdl|163KB/s|0%|TK-US|YT-CN|NF|GPT⁺-US|CL-US|SP-US
